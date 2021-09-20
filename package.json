@@ -1,0 +1,16 @@
+{
+  "name": "@mrlemoos/lead",
+  "version": "1.0.0",
+  "description": "A TypeScript-orientated HTTP fetcher to modern app with PnP implementation.",
+  "repository": "https://github.com/mrlemoos/lead",
+  "author": "Leonardo Lemos <leonardo@sbsistemas.com.br>",
+  "license": "PROPERTY",
+  "private": true,
+  "devDependencies": {
+    "@types/node-fetch": "^3.0.3",
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "./packages"
+  ]
+}
